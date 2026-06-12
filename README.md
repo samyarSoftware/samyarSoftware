@@ -1,5 +1,2 @@
-## Hi, I'm Samyar
-- 💥Junior backend developer with django
-- 🧑‍🔧interested in building the most things that websites need to intraction smoothly
-- 💯Experienced in working with database, optimized query writing using ORM, rest APIs development and problem-solving
-- 🐍Python Expert and advanced Python Scripting
+## About Me
+Junior Backend Developer with Python and Django, with experience in designing and developing RESTful APIs with Django REST Framework and working with PostgreSQL database. Familiar with server-side development, data model design, user authentication and access management. Proficient in Git for version control and collaboration on software projects. Interested in learning new technologies and developing optimized and maintainable solutions.
