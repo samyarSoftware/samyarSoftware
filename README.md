@@ -16,7 +16,7 @@ Junior Backend Developer with Python and Django, with experience in designing an
       <strong>Git</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/><br>
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" alt="GitHub"/><br>
       <strong>GitHub</strong>
     </td>
     <td align="center">
@@ -34,10 +34,6 @@ Junior Backend Developer with Python and Django, with experience in designing an
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="Frontend Basics"/><br>
       <strong>Frontend Basics</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/><br>
-      <strong>VS Code</strong>
     </td>
     <td align="center">
       🌐<br>
