@@ -21,7 +21,7 @@ Junior Backend Developer with Python and Django, with experience in designing an
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="50" alt="Django REST Framework"/><br>
-      <strong>Django Rest Framework</strong>
+      <strong>RESTful APIs</strong>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/><br>
