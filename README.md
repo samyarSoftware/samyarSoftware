@@ -1,6 +1,6 @@
-## About Me
-Junior Backend Developer with Python and Django, with experience in designing and developing RESTful APIs with Django REST Framework and working with PostgreSQL database. Familiar with server-side development, data model design, user authentication and access management. Proficient in Git for version control and collaboration on software projects. Interested in learning new technologies and developing optimized and maintainable solutions.
-## Tech Skills
+## 👨‍💻 About Me
+Junior Backend Developer with Python and Django, with experience in designing and developing RESTful APIs with Django REST Framework and working with PostgreSQL database. Worked with server-side development, data model design, user authentication and access management. Proficient in Git for version control and collaboration on software projects. Interested in learning new technologies and developing optimized and maintainable solutions.
+## 💻 Tech Skills
 <table>
   <tr>
     <td align="center">
@@ -34,8 +34,19 @@ Junior Backend Developer with Python and Django, with experience in designing an
   </tr>
 </table>
 
-## Portfolio
+## 📂 Portfolio
 
-- [Code Wear E-Commerce](https://github.com/samyarSoftware/codeWear)
-- [Social Network](https://github.com/samyarSoftware/socialNetwork)
-- [Django Blog](https://github.com/samyarSoftware/djangoBlog)
+### 🛒 Code Wear E-Commerce
+An e-commerce backend built with Django and Django REST Framework featuring authentication, product management, shopping cart, and order processing.
+
+🔗 https://github.com/samyarSoftware/codeWear
+
+### 👥 Social Network
+A social networking platform with user authentication, posts, comments, likes, and follow functionality.
+
+🔗 https://github.com/samyarSoftware/socialNetwork
+
+### 📝 Django Blog
+A blog based on Django
+
+🔗 https://github.com/samyarSoftware/djangoBlog
