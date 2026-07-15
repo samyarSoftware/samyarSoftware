@@ -33,3 +33,9 @@ Junior Backend Developer with Python and Django, with experience in designing an
     </td>
   </tr>
 </table>
+
+## Portfolio
+
+- [Code Wear E-Commerce]https://github.com/samyarSoftware/codeWear)
+- [Social Network](https://github.com/samyarSoftware/socialNetwork)
+- [Django Blog](https://github.com/samyarSoftware/djangoBlog)
