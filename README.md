@@ -31,13 +31,5 @@ Junior Backend Developer with Python and Django, with experience in designing an
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/><br>
       <strong>Linux</strong>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="Frontend Basics"/><br>
-      <strong>Frontend Basics</strong>
-    </td>
-    <td align="center">
-      🌐<br>
-      <strong>Network Basics</strong>
-    </td>
   </tr>
 </table>
