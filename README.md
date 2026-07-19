@@ -50,3 +50,7 @@ A social networking platform with user authentication, posts, comments, likes, a
 A blog based on Django
 
 🔗 https://github.com/samyarSoftware/djangoBlog
+
+## Connect with Me
+
+**Phone:** 09937291493
